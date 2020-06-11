@@ -1,3 +1,4 @@
+/*
 var positions = [
     { id: "full", male: "Développeur fullstack", female: "Développeuse fullstack"},
     { id: "front",male: "Développeur front-end", female: "Développeuse front-end"},
@@ -30,7 +31,7 @@ function init(){
         user.company = companies[Math.floor(Math.random() * (companies.length * 2))];
         user.speciality = specialities[user.position.id][Math.floor(Math.random() * (specialities[user.position.id].length))];
         console.log(user);
-         renderFromUser(user);
+        renderFromUser(user);
     });
 }
 
@@ -48,3 +49,4 @@ function renderFromUser(user) {
 }
 
 init();
+*/
