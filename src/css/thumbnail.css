@@ -22,6 +22,10 @@
     opacity: 0.75;
 }
 
+.thumbnail-image {
+    width: 100%;
+}
+
 .thumbnail .thumbnail-content {
     position: relative;
     padding: 20px;

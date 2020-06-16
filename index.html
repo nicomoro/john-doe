@@ -29,8 +29,8 @@
                 <img id="person-picture" src="./src/img/moi.jpg"/>
                 <img id="person-country" src="https://image.flaticon.com/icons/svg/197/197560.svg"/>
                 <section>
-                    <h1>Nicolas Moreau</h1>
-                    <h2>Développeur fullstack</h2>
+                    <h1 id="person-fullname">Nicolas Moreau</h1>
+                    <h2 id="person-job">Développeur fullstack</h2>
                     <p>Hello, je suis <strong>Nicolas</strong>, <strong id="person-position"></strong> spécialisé en <strong>Javascript</strong> actuellement <strong id="person-company"></strong> dans la ville de <strong id="person-city">Tours</strong>.</p>
                     <div>
                         <a class="button" target="_blank" id="person-email">M'envoyer un email</a>
@@ -60,7 +60,7 @@
                                 <div class="box-well">
                                     <span><img src="./src/img/star.svg" height="12"/></span>
                                     <span><img src="./src/img/star.svg" height="12"/></span>
-                                    <span disabled><img src="./src/img/star.svg" height="12"/></span>
+                                    <span><img src="./src/img/star.svg" height="12"/></span>
                                     <span disabled><img src="./src/img/star.svg" height="12"/></span>
                                     <span disabled><img src="./src/img/star.svg" height="12"/></span>
                                 </div>
@@ -96,7 +96,9 @@
                 <section>
                     <h3>Réalisations</h3>
                     <div class="thumbnail" >
-                        <div class="thumbnail-cover" style="background-image: url(https://source.unsplash.com/random/800*600?code)"></div>
+                        <div class="thumbnail-cover">
+                            <img class="thumbnail-image" src="./src/img/winesee.png">
+                        </div>
                         <div class="thumbnail-content">
                             <span class="badge">Site Web</span>
                             <p class="thumbnail-title">Winesee </p>
@@ -107,7 +109,9 @@
                         </div>
                     </div>
                     <div class="thumbnail" >
-                        <div class="thumbnail-cover" style="background-image: url(https://source.unsplash.com/random/800*600?shop)"></div>
+                        <div class="thumbnail-cover">
+                            <img class="thumbnail-image" src="./src/img/strat.png">
+                        </div>
                         <div class="thumbnail-content">
                             <span class="badge">Application</span>
                             <p class="thumbnail-title">Strat&Growth </p>
