@@ -3,7 +3,8 @@ It's about my personal website template using only plain html, css and javascrip
 
 Live demo is available here: [http://nicolas-moreau.com/](http://nicolas-moreau.com/)
 
-![Project cover](src/img/open-graph.jpg)
+![Project cover](src/img/personal-website.jpg)
 
 ## Acknowledgements
-All the random wallpapers are generated from the unsplash API and the user content from the randomuser.me API !
+The template is forked from https://github.com/NicolasBrondin/john-doe
+All images are generated from the unsplash API
