@@ -3,7 +3,7 @@ It's about my personal website template using only plain html, css and javascrip
 
 Live demo is available here: [http://nicolas-moreau.com/](http://nicolas-moreau.com/)
 
-![Project cover](http://nicolas-moreau.com/)
+![Project cover](src/img/personal-website.jpg)
 
 ## Acknowledgements
 The template is forked from https://github.com/NicolasBrondin/john-doe
