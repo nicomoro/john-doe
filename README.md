@@ -7,4 +7,5 @@ Live demo is available here: [http://nicolas-moreau.com/](http://nicolas-moreau.
 
 ## Acknowledgements
 The template is forked from https://github.com/NicolasBrondin/john-doe
+
 All images are generated from the unsplash API
